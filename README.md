@@ -16,4 +16,4 @@ file:///C:/Users/Karthik/Desktop/Visualization%20Tool%20for%20Electric%20Vehicle
 Video Link:
 
 https://drive.google.com/file/d/1bjPkazdurvBwha5t3p2x6v7AIR79zFd_/view?usp=share_link
-[Electric Vehicle Charge and Range Anaylsis Link.txt](https://github.com/Abirami-111/Electric-vehicle-range-analysis/files/11284267/Electric.Vehicle.Charge.and.Range.Anaylsis.Link.txt)
+
